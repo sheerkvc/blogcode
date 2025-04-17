@@ -1,0 +1,147 @@
+- class_name: 友链
+  class_desc: 好朋友们~（以下所有分类不分先后）
+  link_list:
+
+    - name: Joyer的博客
+      link: https://blog.joyer.top
+      avatar: https://blog.joyer.top/img/favicon.png
+      descr: 一只会唱Lahee~的龙
+
+    - name: Mr.Ma
+      link: https://iwalyou.com
+      avatar: https://iwalyou.oss-cn-beijing.aliyuncs.com/avater.png
+      descr: 一名持续性混吃等死，间接性踌躇满志少年的根据地！
+
+    - name: UyoAhz
+      link: https://uyoahz.cn
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=2496091142&s=640
+      descr: 集中精神，以气御剪
+
+    - name: 😊Ordis
+      link: https://imbhj.com
+      avatar: https://imbhj-cdn.oss-cn-hangzhou.aliyuncs.com/CDN3/202208032018823.png
+      descr: 船到桥头自然直，柳暗花明又一村
+
+    - name: MJ's Blog
+      descr: 醒亦念卿，梦亦念卿
+      link: https://blog.justlovesmile.top
+      avatar: https://npm.elemecdn.com/justlovesmile-img/logo.jpg
+
+    - name: Guo Le's Blog
+      link: https://guole.fun/
+      avatar: https://blog.guole.fun/img/avatar.jpg
+      descr: 生命是独立是自由是爱与和平
+
+    - name: 七鳄の学习格shi
+      link: https://blog.gmcj0816.top/
+      avatar: https://blog.gmcj0816.top/img/SeriousWission_TouXiangPic.png
+      descr: 如果世界多了精彩，每一位都是创造者，大家都是你的观众
+
+    - name: Fomalhaut🥝
+      link: https://www.fomal.cc/
+      avatar: https://www.fomal.cc/assets/head.jpg
+      descr: Future is now 🍭🍭🍭
+
+    - name: 心流
+      link: https://blog.panghai.top
+      avatar: https://blog.panghai.top/img/avatar.png
+      descr: 保持谨慎，保持乐观
+
+    - name: 满心Hrn
+      link: https://blog.lovelu.top/
+      avatar: https://cdn.lovelu.top/img/logo.png
+      descr: 追求让人充实，分享让人快乐
+
+    - name: 知觉思墨网
+      link: https://www.mojuec.cn
+      avatar: https://mojuec.cn/wp-content/uploads/2024/01/logo-2.png
+      descr: 分享让人快乐
+
+    - name: 第三夏尔
+      link: https://thirdshire.com
+      avatar: https://thirdshire.com/blackcat_avatar.jpg
+      descr: 认真生活，积极摸鱼
+
+    - name: Yuin
+      link: https://blog.zhoulingyu.net
+      avatar: https://zhoulingyu.net/seologo.png
+      descr: The world is your oyster!
+
+    - name: zhy
+      link: http://blog.775866.xyz/
+      avatar: https://weavatar.com/avatar/1199516df9d9506d77f35164d01140b5?d=letter&letter=z
+      descr: 正在建设中
+
+
+- class_name: 特别鸣谢
+  class_desc: 自我提升就在其中
+  link_list:
+    - name: 张洪Heo
+      link: https://blog.zhheo.com
+      avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
+      descr: 分享设计与科技生活
+
+    - name: 小冰博客
+      link: https://zfe.one
+      avatar: https://zfe.space/images/headimage.png
+      descr: 做个有梦想的人！
+
+    - name: Akilarの糖果屋
+      link: https://akilar.top/
+      avatar: https://picgo172.oss-cn-qingdao.aliyuncs.com/img/202209251249547.png
+      descr: 期待您的光临！
+
+    - name: 残页的小博客
+      link: https://canyie.github.io/
+      avatar: https://canyie.github.io/data/image/avatar.jpg
+      descr: 安卓领路人
+
+- class_name: 失效的link，希望能回来哦
+  class_desc:
+  link_list:
+
+    - name: 😊with1874
+      link: https://www.with1874.ltd
+      avatar: https://with1874.ltd/img/about.png
+      descr: 一个现役最菜写手...
+
+    - name: 白雾茫茫丶
+      link: https://blog.xmwpro.com/
+      avatar: https://cyan-blog.oss-cn-shenzhen.aliyuncs.com/global/avatar.jpg
+      descr: 记录学习、生活和有趣的事
+
+
+
+- class_name: Powered by
+  class_desc:
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-cn/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 框架支持
+
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: 绝佳的主题
+
+    - name: PicGo
+      link: https://molunerfinn.com/PicGo/
+      avatar: https://molunerfinn.com/PicGo/imgs/256x256--icons.png
+      descr: 上传图床支持
+
+    - name: 阿里云
+      link: https://www.aliyun.com/
+      avatar: https://picgo172.oss-cn-qingdao.aliyuncs.com/img/202209251243628.webp
+      descr: 图床/仓库/域名支持
+
+    - name: Font Awesome
+      link: https://fontawesome.com/
+      avatar: https://www.thinkcmf.com/themes/simplecmf3/public/assets/font_search/ico/favicon.ico
+      descr: 精巧的图标
+
+    - name: LeanCloud
+      link: https://www.leancloud.cn/
+      avatar: https://www.leancloud.cn/apple-touch-icon.png
+      descr: 评论支持
+
